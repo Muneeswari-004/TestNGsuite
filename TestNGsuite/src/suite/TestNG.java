@@ -5,9 +5,9 @@ import org.testng.annotations.Test;
 public class TestNG 
 {
 	@Test
-	public void positive1()
+	public void positive()
 	{
-		System.out.println("positive1");
+		System.out.println("positive");
 	}
 	@Test
 	public void positive2()
